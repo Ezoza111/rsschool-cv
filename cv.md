@@ -5,7 +5,7 @@
 ***
 ### Contact information:
 **Phone:** +375255086098
-**E-mail:** ezozakhudayberdieva@gmail.com
+**E-mail:** ezozakhudayberdieva@mail.ru
 **[Github](адрес "https://github.com/Ezoza111/rsschool-cv/tree/gh-pages")**
 
 ***

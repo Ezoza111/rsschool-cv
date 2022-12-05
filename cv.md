@@ -4,12 +4,12 @@
 
 ***
 ### Contact information:
-**Phone:** +375255086098
-**E-mail:** ezozakhudayberdieva@mail.ru
-**[Github](адрес "https://github.com/Ezoza111/rsschool-cv/tree/gh-pages")**
+* **Phone:** +375255086098
+* **E-mail:** ezozakhudayberdieva@mail.ru
+* **[Github](адрес "https://github.com/Ezoza111/rsschool-cv/tree/gh-pages")**
 
 ***
-###Briefly About Myself:
+### Briefly About Myself:
 My goal is to learn everything new and exciting. I love code. 
 I can spend a lot of time doing what interests me. 
 My core strengths are in problem solving and fast learning. 

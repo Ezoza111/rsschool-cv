@@ -35,3 +35,7 @@ function areaLargestSquare(r) {
  ```
 
  ***
+ ### Languages:
+**English:** Pre-Intermediate
+**Russian:** Native
+**Uzbek:** Native
